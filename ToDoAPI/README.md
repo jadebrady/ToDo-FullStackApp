@@ -1,8 +1,10 @@
 ## Full Stack To Do Application
-- This project is continuing from my previous To do Console application
+- This project is continuing from my previous To do Console application (https://github.com/jadebrady/To-Do-Flow)
 
 ## In this new iteration I will:
-- ☑ Designed the system architecture and implemented CRUD functionality
-- ☑ Developed a C#/.NET ASP.NET Web API with a MySQL back-end
-- ☐ Develop a JavaScript-based front-end user interface
+- ☑ Design the system architecture and implemented CRUD functionality
+- ☑ Develop a C#/.NET ASP.NET Web API with a MySQL back-end
+- ☑ Test end points using Postman
+- ☑ Implement a react template front-end for testing
+- ☐ Learn and develop a React front-end user interface
 - ☐ Deploy the application to Azure Cloud for hosting
