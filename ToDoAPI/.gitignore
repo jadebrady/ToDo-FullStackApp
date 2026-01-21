@@ -12,3 +12,4 @@ appSettings.Production.json
 *.mdf
 *.ldf
 
+*.db
