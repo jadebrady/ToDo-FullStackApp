@@ -3,3 +3,12 @@ obj/
 *.user
 appSettings.json
 appSettings.Development.json
+appSettings.Production.json
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+*.mdf
+*.ldf
+
